@@ -18,7 +18,7 @@
    - **ChatGPT** (Business, Enterprise, Edu): Plugins → Skills → Create → Upload from your computer.
 5. В новом чате вставьте вакансию и напишите: «Собери пакет для отклика на эту вакансию».
 
-Подробная инструкция по использованию скилла: [гугл-док]((https://docs.google.com/document/d/1waDTUb4Wi54Edl7Sq9cyLeFJF55KF-9VEuK_7GopMcQ/edit?usp=sharing)
+Подробная инструкция по использованию скилла: [гугл-док](https://docs.google.com/document/d/1waDTUb4Wi54Edl7Sq9cyLeFJF55KF-9VEuK_7GopMcQ/edit?usp=sharing)
 
 ## Что внутри
 
